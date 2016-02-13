@@ -1,0 +1,21 @@
+article {
+	width: 100%
+}
+
+.Iron {
+	width: 300px;
+	border: 1px solid black;
+	float: left;
+	margin: 10px;
+	padding: 10px;
+	display: inline-block;
+	background-color: skyblue;
+}
+
+Img {
+	width: 300px;
+}
+
+.Spec {
+	background-color: red;
+}
