@@ -4,18 +4,80 @@ article {
 
 .Iron {
 	width: 300px;
-	border: 1px solid black;
+	border: 1px solid lightblue;
 	float: left;
 	margin: 10px;
 	padding: 10px;
 	display: inline-block;
-	background-color: skyblue;
+	background-color: royalblue;
 }
 
 Img {
-	width: 300px;
+	width: 60%;
+	margin: auto;
+    border: 3px solid black;
+    padding: 10px
 }
 
 .Spec {
-	background-color: red;
+	background-color: gray;
+	color: yellow;
+}
+
+h1 {
+	border: 1px dotted lightblue;
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+	
+}
+
+.price1 {
+	font-weight: bold;
+}
+
+.price2 {
+	font-weight: bold;
+}
+
+.price3 {
+	font-weight: bold;
+}
+
+.price4 {
+	font-weight: bold;
+}
+
+.price5 {
+	font-weight: bold;
+}
+
+.price6 {
+	font-weight: bold;
+}
+
+.measure1 {
+	font-weight: bold;
+}
+
+.measure2 {
+	font-weight: bold;
+}
+
+.measure3 {
+	font-weight: bold;
+}
+
+.measure4 {
+	font-weight: bold;
+}
+
+.measure5 {
+	font-weight: bold;
+}
+
+.measure6 {
+	font-weight: bold;
 }
