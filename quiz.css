@@ -1,0 +1,85 @@
+article {
+	width: 100%
+}
+
+.Iron {
+	width: 30%;
+	border: 1px solid lightblue;
+	float: left;
+	margin: 10px;
+	display: inline-block;
+	background-color: royalblue;
+}
+
+Img {
+	width: 60%;
+    border: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.Spec {
+	background-color: gray;
+	color: yellow;
+	width: 100%;
+}
+
+h1 {
+	border: 1px dotted lightblue;
+	text-align: center;
+	width: 100%;
+}
+
+p {
+	text-align: justify;
+	
+}
+
+.price1 {
+	font-weight: bold;
+}
+
+.price2 {
+	font-weight: bold;
+}
+
+.price3 {
+	font-weight: bold;
+}
+
+.price4 {
+	font-weight: bold;
+}
+
+.price5 {
+	font-weight: bold;
+}
+
+.price6 {
+	font-weight: bold;
+}
+
+.measure1 {
+	font-weight: bold;
+}
+
+.measure2 {
+	font-weight: bold;
+}
+
+.measure3 {
+	font-weight: bold;
+}
+
+.measure4 {
+	font-weight: bold;
+}
+
+.measure5 {
+	font-weight: bold;
+}
+
+.measure6 {
+	font-weight: bold;
+}
